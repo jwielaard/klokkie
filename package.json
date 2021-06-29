@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jwielaard/klokkie/issues"
   },
-  "homepage": "https://github.com/jwielaard/klokkie#readme"
+  "homepage": "https://github.com/jwielaard/klokkie#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
