@@ -1,8 +1,9 @@
 {
   "name": "klokkie",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "a javascript library for handling date time",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
@@ -18,8 +19,12 @@
     "type": "git",
     "url": "git+https://github.com/jwielaard/klokkie.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "datetime",
+    "date",
+    "time"
+  ],
+  "author": "jillie",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jwielaard/klokkie/issues"
